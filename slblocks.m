@@ -3,10 +3,10 @@ function blkStruct = slblocks
 		% in the Library Browser
 		% and be cached in the browser repository
 
-		Browser.Library = 'SimuCopterLib';
+		Browser.Library = 'SimuCopterToolbox';
 		% 'mylib' is the name of the library
 
-		Browser.Name = 'SimuCopter Library';
+		Browser.Name = 'SimuCopter ToolBox';
 		% 'My Library' is the library name that appears in the Library Browser
 
 		blkStruct.Browser = Browser;
