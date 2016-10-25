@@ -8,8 +8,5 @@ Gera's code from 17/05/16
 - ...
 
 ## linux
-- enable the cammera using 
-  - sudo raspi-config
-
-- add the cammera interface (/dev/video0) by
-  - sudo modprobe bcm2835-v4l2
+- enable the cammera using: `sudo raspi-config`
+- add the cammera interface (/dev/video0) using `sudo modprobe bcm2835-v4l2`
